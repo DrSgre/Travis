@@ -8,4 +8,3 @@
   - $HOME/.m2
   script:
   - mvn clean install
-  os: windows
