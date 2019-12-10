@@ -6,7 +6,6 @@ dist: trusty
 group: edge
 jdk: openjdk8
 language: java
-os: windows
 script: 
   - "mvn clean install"
 sudo: required
